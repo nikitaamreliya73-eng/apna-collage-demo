@@ -1,2 +1,3 @@
 # apna-collage-demo
-this is my demo repos
+this is my demo repos.
+author - nikita amreliya
